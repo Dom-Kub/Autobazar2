@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="448.0" y="835.0">Hotel.Izba</node>
+    <node x="320.5" y="0.0">Vozidlo.Prepravitelny</node>
+    <node x="0.0" y="213.0">Vozidlo.Dodavka</node>
+    <node x="826.0" y="0.0">Hotel.Sklad</node>
+    <node x="0.0" y="835.0">Sluzby.Autobazar</node>
+    <node x="320.0" y="835.0">Sluzby.Hotel</node>
+    <node x="274.0" y="213.0">Vozidlo.Motorka</node>
+    <node x="547.0" y="213.0">Vozidlo.Auto</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Vozidlo.Auto" target="Vozidlo.Prepravitelny">
+      <point x="0.0" y="-288.5" />
+      <point x="664.0" y="188.0" />
+      <point x="453.83333333333337" y="188.0" />
+      <point x="53.33333333333337" y="81.5" />
+    </edge>
+    <edge source="Vozidlo.Motorka" target="Vozidlo.Prepravitelny">
+      <point x="0.0" y="-288.5" />
+      <point x="0.0" y="81.5" />
+    </edge>
+    <edge source="Vozidlo.Dodavka" target="Vozidlo.Prepravitelny">
+      <point x="0.0" y="-288.5" />
+      <point x="127.0" y="188.0" />
+      <point x="347.1666666666667" y="188.0" />
+      <point x="-53.333333333333314" y="81.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="1301.0952380952376" y="711.9999999999995" />
+  <SelectedNodes>
+    <node>Hotel.Sklad</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

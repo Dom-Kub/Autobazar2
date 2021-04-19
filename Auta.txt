@@ -1,0 +1,14 @@
+V nasom Autobazári sa nachádzajú dané vozidlá: 
+
+Audi rok výroby: 2015 vin: ABC1 ma najazdených: 15000 auto je na predaj auto má platnú STK
+
+Mercedes rok výroby: 2012 vin: ABC4 ma najazdených: 10000 auto je na predaj auto nemá platnú STK potreba dorobiť
+
+Honda rok výroby: 2018 vin: M1 ma najazdených: 1000 auto je na predaj auto má platnú STK
+
+Suzuki rok výroby: 2016 vin: M4 ma najazdených: 500 auto je na predaj auto nemá platnú STK potreba dorobiť
+
+Volkswagen rok výroby: 2018 vin: D11 ma najazdených: 1000 auto je na predaj auto má platnú STK
+
+Mercedes rok výroby: 2016 vin: D4 ma najazdených: 500 auto je na predaj auto nemá platnú STK potreba dorobiť
+

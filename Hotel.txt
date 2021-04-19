@@ -1,0 +1,13 @@
+V našom hotely sa nachádzajú dané priestory na predaj: 
+
+Byt číslo: 1 je Velký o rozlohe: 120 a cenou: 180000
+
+SKlad číslo: 5 je Malý o rozlohe: 50 a cenou: 25000
+
+
+V našom hotely sa nachádzajú dané priestory na prenájom: 
+
+Byt číslo: 4 je Velký o rozlohe: 100 a cenou: 200000
+
+SKlad číslo: 8 je Velký o rozlohe: 120 a cenou: 57600
+
